@@ -1,6 +1,17 @@
-# javalin-jte-example
+## Javalin Recap 2
+---
+### Description
+In this exercise, you will create an html page with certain elements.
 
-Replit run command (.replit)
+Open Theme. You can write about whatever you want(video games, shows, movies, etc.) as long as it has the required elements.
 
-language = "java10"
-run = "mvn clean compile assembly:single && java -jar target/javalin-jte-example-1.0-SNAPSHOT-jar-with-dependencies.jar"
+---
+### Steps
+1. In src -> main -> resources -> public -> index.html, create a dialog element with buttons and an image element.
+
+---
+### Sample Output
+
+A page with at least a description, image, button and dialog.
+
+---
